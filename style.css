@@ -1,0 +1,31 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 0px;
+}
+header{
+    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg");
+}
+header h1{
+    font-weight: 600;
+    font-size: 150px;
+    text-align: center;
+    color: yellow;
+}
+.Brushes h2{
+    font-size: 60px;
+    background-color: green;
+    color:white;
+}
+.ending{
+    color:blue;
+}
+.Paint h2{
+    font-size: 60px;
+    background-color: lightskyblue;
+    color:white;
+}
+.Frames h2{
+    font-size: 60px;
+    background-color: orange;
+    color:white;
+}
